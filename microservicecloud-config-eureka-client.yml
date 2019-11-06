@@ -9,7 +9,6 @@ spring:
   profiles: dev
   application:
     name: microservicecloud-config-eureka-client
-
 eureka:
   instance:
     hostname: eureka7001.com
@@ -25,7 +24,6 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-eureka-client
-
 eureka:
   instance:
     hostname: eureka7001.com
